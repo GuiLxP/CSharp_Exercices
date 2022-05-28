@@ -1,0 +1,15 @@
+C:\Users\guilh\source\repos\Atividade 2\bin\Debug\net6.0\Atividade2.exe
+C:\Users\guilh\source\repos\Atividade 2\bin\Debug\net6.0\Atividade2.deps.json
+C:\Users\guilh\source\repos\Atividade 2\bin\Debug\net6.0\Atividade2.runtimeconfig.json
+C:\Users\guilh\source\repos\Atividade 2\bin\Debug\net6.0\Atividade2.dll
+C:\Users\guilh\source\repos\Atividade 2\bin\Debug\net6.0\Atividade2.pdb
+C:\Users\guilh\source\repos\Atividade 2\obj\Debug\net6.0\Atividade2.csproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\Atividade 2\obj\Debug\net6.0\Atividade2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\Atividade 2\obj\Debug\net6.0\Atividade2.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\Atividade 2\obj\Debug\net6.0\Atividade2.AssemblyInfo.cs
+C:\Users\guilh\source\repos\Atividade 2\obj\Debug\net6.0\Atividade2.csproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\Atividade 2\obj\Debug\net6.0\Atividade2.dll
+C:\Users\guilh\source\repos\Atividade 2\obj\Debug\net6.0\refint\Atividade2.dll
+C:\Users\guilh\source\repos\Atividade 2\obj\Debug\net6.0\Atividade2.pdb
+C:\Users\guilh\source\repos\Atividade 2\obj\Debug\net6.0\Atividade2.genruntimeconfig.cache
+C:\Users\guilh\source\repos\Atividade 2\obj\Debug\net6.0\ref\Atividade2.dll
